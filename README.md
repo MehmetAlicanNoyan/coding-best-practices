@@ -1,6 +1,6 @@
 # Resources for writing good software
 
-The resources came out from a discussion on Twitter [[1](https://twitter.com/uyducusirin/status/1175757464052142083)], [[2](https://twitter.com/uyducusirin/status/1175835933188321280)], [[3](https://twitter.com/uyducusirin/status/1175851428734263297)] (available only in Turkish). Thanks to [Emre Sevinç](https://twitter.com/EmreSevinc) and [Egemen İmre](https://twitter.com/uyducusirin). 
+The resources came out from a discussion on Twitter [[1](https://twitter.com/uyducusirin/status/1175757464052142083)], [[2](https://twitter.com/uyducusirin/status/1175835933188321280)], [[3](https://twitter.com/uyducusirin/status/1175851428734263297)] (available only in Turkish), thanks to [Emre Sevinç](https://twitter.com/EmreSevinc) and [Egemen İmre](https://twitter.com/uyducusirin).
 
 ## Books
 * [Code Complete - Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete)
