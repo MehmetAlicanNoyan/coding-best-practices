@@ -9,35 +9,35 @@ The resources came out from a discussion on Twitter. Thanks to [Emre Sevinc](htt
 
 * [A Philosophy of Software Design - John Ousterhout](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
 
-# Testing
+## Testing
 https://docs.python-guide.org/writing/tests/
 
-## Property-based testing:
+### Property-based testing:
 https://hypothesis.readthedocs.io/en/latest/
 https://hypothesis.readthedocs.io/en/latest/numpy.html
 https://www.youtube.com/watch?v=SGicCC6OXgI
 
-## Performance testing
+### Performance testing
 https://locust.io
 https://jmeter.apache.org/
 
-# Version Control
+## Version Control
 https://www.git-tower.com/blog/version-control-best-practices/
 https://chris.beams.io/posts/git-commit/
 
-# Logging
+## Logging
 https://docs.python-guide.org/writing/logging/
 
-# Structure
+## Structure
 https://docs.python-guide.org/writing/structure/
 
-# Python guide
+## Python
 https://docs.python-guide.org/
 
-## Useful tools
+### Useful tools
 https://docs.python.org/3.7/library/itertools.html
 https://more-itertools.readthedocs.io/en/stable/
 https://docs.python.org/3.7/library/functools.html
 
-Conference
+## Conference
 https://www.usenix.org/conference/opml19
