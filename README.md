@@ -37,6 +37,7 @@ https://docs.python-guide.org/writing/documentation/
 
 ### 5- Version Control
 https://www.git-tower.com/blog/version-control-best-practices/
+
 https://chris.beams.io/posts/git-commit/
 
 ## Python
