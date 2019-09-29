@@ -1,6 +1,7 @@
 # Resources for writing good software
 
-The resources came out from a discussion on Twitter. Thanks to [Emre Sevinc](https://twitter.com/EmreSevinc) and [Egemen Imre](https://twitter.com/uyducusirin).
+The resources came out from a discussion on Twitter. Thanks to [Emre Sevinç](https://twitter.com/EmreSevinc) and [Egemen İmre](https://twitter.com/uyducusirin).
+Threads [1](https://twitter.com/uyducusirin/status/1175757464052142083) [2](https://twitter.com/uyducusirin/status/1175835933188321280) and [3](https://twitter.com/uyducusirin/status/1175851428734263297) (available only in Turkish)
 
 ## Books
 * [Code Complete - Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete)
@@ -49,5 +50,6 @@ https://more-itertools.readthedocs.io/en/stable/
 
 https://docs.python.org/3.7/library/functools.html
 
-## Conference
+## Specific to Machine Learning
+A conference where papers and proceedings are available here:
 https://www.usenix.org/conference/opml19
