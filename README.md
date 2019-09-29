@@ -14,15 +14,19 @@ https://docs.python-guide.org/writing/tests/
 
 ### Property-based testing:
 https://hypothesis.readthedocs.io/en/latest/
+
 https://hypothesis.readthedocs.io/en/latest/numpy.html
+
 https://www.youtube.com/watch?v=SGicCC6OXgI
 
 ### Performance testing
 https://locust.io
+
 https://jmeter.apache.org/
 
 ## Version Control
 https://www.git-tower.com/blog/version-control-best-practices/
+
 https://chris.beams.io/posts/git-commit/
 
 ## Logging
@@ -36,7 +40,9 @@ https://docs.python-guide.org/
 
 ### Useful tools
 https://docs.python.org/3.7/library/itertools.html
+
 https://more-itertools.readthedocs.io/en/stable/
+
 https://docs.python.org/3.7/library/functools.html
 
 ## Conference
